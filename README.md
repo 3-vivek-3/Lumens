@@ -205,8 +205,12 @@ The `AudioManager`:
 
 ## Images
 
-![MainMenu](Assets/Preview/MainMenu.png)
-![Options](Assets/Preview/Options.png)
-![GameplayPauseMenu](Assets/Preview/GameplayPauseMenu.png)
+![MainMenu](Preview/MainMenu.png)
+![Options](Preview/Options.png)
+![GameplayPauseMenu](Preview/GameplayPauseMenu.png)
 
 ## References
+
+* https://en.wikipedia.org/wiki/Maze_generation_algorithm
+* https://youtu.be/oejg12YyYyI?si=vYVXBV0uJN2L_fBS
+
