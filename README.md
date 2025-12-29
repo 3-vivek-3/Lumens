@@ -211,6 +211,6 @@ The `AudioManager`:
 
 ## References
 
-* https://en.wikipedia.org/wiki/Maze_generation_algorithm
-* https://youtu.be/oejg12YyYyI?si=vYVXBV0uJN2L_fBS
+* Wilson's algorithm for uniform maze generation: https://en.wikipedia.org/wiki/Maze_generation_algorithm
+* Scene controller using builder pattern: https://youtu.be/oejg12YyYyI?si=vYVXBV0uJN2L_fBS
 
