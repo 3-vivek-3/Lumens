@@ -205,6 +205,8 @@ The `AudioManager`:
 
 ## Images
 
-
+![MainMenu](Assets/Preview/MainMenu.png)
+![Options](Assets/Preview/Options.png)
+![GameplayPauseMenu](Assets/Preview/GameplayPauseMenu.png)
 
 ## References
