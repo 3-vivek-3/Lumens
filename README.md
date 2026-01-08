@@ -2,6 +2,8 @@
 
 Lumens is a Unity-based 3D maze game in which the player rolls a ball through a dynamically generated maze toward the exit.
 
+Download the latest build [**here**](https://github.com/3-vivek-3/Lumens/releases/tag/v1.0.0).
+
 ## **Project Organization**
 
 Inside `Assets/`, the key folders for this game are:
